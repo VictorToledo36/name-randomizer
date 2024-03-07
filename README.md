@@ -1,16 +1,23 @@
-Meu Primeiro Projeto em Flutter
+# Meu Primeiro Projeto em Flutter
+
 Este é o meu primeiro projeto em Flutter, desenvolvido seguindo os passos do Google CodeLabs. Ele é capaz de gerar nomes aleatórios e permite favoritá-los, contendo as telas de home e de favoritos.
 
-Recursos Principais
-Geração de Nomes Aleatórios: O aplicativo é capaz de gerar nomes aleatórios a partir de uma lista de prefixos e sufixos pré-definidos.
+## Recursos Principais
 
-Favoritar Nomes: Os nomes gerados podem ser favoritados pelo usuário, sendo armazenados em uma lista de favoritos para fácil acesso posterior.
+### Geração de Nomes Aleatórios
 
-Capturas de Tela
-Tela de Home
+O aplicativo é capaz de gerar nomes aleatórios a partir de uma lista de prefixos e sufixos pré-definidos.
 
-A tela de home exibe nomes gerados aleatoriamente, com a opção de favoritá-los.
+### Nomes Favoritos
 
-Tela de Favoritos
+Os nomes gerados podem ser favoritos pelo usuário, sendo armazenados em uma lista de favoritos para fácil acesso posterior.
 
-Na tela de favoritos, o usuário pode visualizar e acessar os nomes favoritados anteriormente.
+## Capturas de Tela
+
+### Tela de Home
+
+A tela inicial exibe nomes gerados aleatoriamente, com opção de favoritá-los.
+
+### Tela de Favoritos
+
+Na tela de favoritos, o usuário pode visualizar e acessar os nomes favoritos anteriormente.
