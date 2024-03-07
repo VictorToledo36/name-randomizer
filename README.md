@@ -1,16 +1,16 @@
-# flutter_application_1
+Meu Primeiro Projeto em Flutter
+Este é o meu primeiro projeto em Flutter, desenvolvido seguindo os passos do Google CodeLabs. Ele é capaz de gerar nomes aleatórios e permite favoritá-los, contendo as telas de home e de favoritos.
 
-A new Flutter project.
+Recursos Principais
+Geração de Nomes Aleatórios: O aplicativo é capaz de gerar nomes aleatórios a partir de uma lista de prefixos e sufixos pré-definidos.
 
-## Getting Started
+Favoritar Nomes: Os nomes gerados podem ser favoritados pelo usuário, sendo armazenados em uma lista de favoritos para fácil acesso posterior.
 
-This project is a starting point for a Flutter application.
+Capturas de Tela
+Tela de Home
 
-A few resources to get you started if this is your first Flutter project:
+A tela de home exibe nomes gerados aleatoriamente, com a opção de favoritá-los.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tela de Favoritos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Na tela de favoritos, o usuário pode visualizar e acessar os nomes favoritados anteriormente.
